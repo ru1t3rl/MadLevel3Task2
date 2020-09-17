@@ -1,0 +1,4 @@
+package tech.tucano.madlevel3task2
+
+class PortalAdapter {
+}
