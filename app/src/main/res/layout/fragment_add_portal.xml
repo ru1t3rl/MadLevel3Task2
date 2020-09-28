@@ -37,7 +37,7 @@
         tools:text="http://" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnAddPortal"
         android:layout_width="0dp"
         android:layout_height="49dp"
         android:layout_marginStart="25dp"
